@@ -18,6 +18,7 @@
 
     <modules>
         <module>storm-wordcount</module>
+        <module>storm-kafka</module>
         
     </modules>
 
